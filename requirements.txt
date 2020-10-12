@@ -1,4 +1,2 @@
-os
-urllib
 opencv-python 
 streamlit-nightly
